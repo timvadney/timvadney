@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Computer Science student and Software Engineer</h3>
 </br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timvadney" alt="timvadney" /></a> </p>
-
 - 🔭 I’m currently working on **a portfolio website**
 
 - 🌱 I’m currently learning **web development**
