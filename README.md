@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Computer Science student and Software Engineer</h3>
 </br>
 
-- 🔭 I’m currently working on **a portfolio website**
-
 - 🌱 I’m currently learning **web development**
 
 - 📫 How to reach me **vtim@vt.edu**
